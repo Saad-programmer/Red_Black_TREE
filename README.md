@@ -417,24 +417,3 @@ g++ -O2 -std=c++17 -Wall -Wextra -o rb_demo  assignement2.cpp
 ⭐ _Si ce projet t'a aidé, n'hésite pas à laisser une étoile !_
 
 </div>
-```
-
----
-
-## 🎨 Ce qui rend ce README « parfait » (checklist UI/UX)
-
-| Élément | Outil | Bénéfice UX |
-|:--|:--|:--|
-| **Badges** | shields.io | Signal visuel immédiat (langage, version, statut) |
-| **Sommaire cliquable** | ancres Markdown | Navigation rapide dans un long document |
-| **Diagrammes d'architecture** | Mermaid `graph` / `flowchart` | Vision instantanée des composants |
-| **Séquence d'insertion** | Mermaid `sequenceDiagram` | Comprendre le flux `fixInsert` |
-| **Gantt de benchmark** | Mermaid `gantt` | Voir l'ordre et la durée des phases |
-| **Tableaux alignés** | Markdown + HTML | Comparaison rapide des mesures |
-| **Blocs ASCII** | code fences | Graphiques sans dépendance d'image |
-| **Formules LaTeX** | `$$ ... $$` | Rigueur mathématique (`log₂(n+1)`) |
-| **Alertes GitHub** | `> ⚠️`, `> 📌`, `> 💡` | Points d'attention visuels |
-| **`<details>` repliables** | HTML | Extraits longs sans surcharger |
-| **Emojis sémantiques** | Unicode | Repérage rapide par phase |
-| **Bloc « TL;DR »** | final | Valeur immédiate pour lecteur pressé |
-
