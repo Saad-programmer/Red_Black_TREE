@@ -412,8 +412,5 @@ g++ -O2 -std=c++17 -Wall -Wextra -o rb_demo  assignement2.cpp
 
 <div align="center">
 
-**Fait avec ❤️ en C++ · Licence MIT · 2026**
-
-⭐ _Si ce projet t'a aidé, n'hésite pas à laisser une étoile !_
 
 </div>
